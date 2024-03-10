@@ -6,7 +6,7 @@ Zaika is a dynamic food delivery website created with the Swiggy API. It provide
 
 ## Live Project
 
-Explore Zaika live: [Zaika Live](https://food-dev-app.vercel.app/)
+Explore Zaika live: [Live](https://food-dev-app.vercel.app/)
 
 ## Key Features
 
